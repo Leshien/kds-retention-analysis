@@ -68,7 +68,7 @@ Analiza odpowiada na trzy pytania postawione przez zlecającego:
 
 ```bash
 # Klonuj repo
-git clone https://github.com/TWOJ-USERNAME/kds-retention-analysis.git
+git clone https://github.com/leshien/kds-retention-analysis.git
 cd kds-retention-analysis
 
 # Zainstaluj zależności
