@@ -78,7 +78,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 python kds_analysis.py
 ```
 
-Dashboard zostanie zapisany jako `output/KDS_Dashboard.png`.
+Dashboard zostanie zapisany jako `KDS_Dashboard.png`.
 
 ---
 
