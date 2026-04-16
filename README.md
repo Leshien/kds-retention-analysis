@@ -4,7 +4,7 @@
 
 Projekt konkursowy realizowany na zlecenie [KajoDataSpace](https://kajodataspace.pl) i [Data Acolyte](https://dataacolyte.pl), kwiecień 2026.
 
-![Dashboard](output/KDS_Dashboard.png)
+![Dashboard](KDS_Dashboard.png)
 
 ---
 
