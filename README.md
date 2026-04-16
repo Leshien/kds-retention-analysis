@@ -4,7 +4,7 @@
 
 Projekt konkursowy realizowany na zlecenie [KajoDataSpace](https://kajodataspace.pl) i [Data Acolyte](https://dataacolyte.pl), kwiecień 2026.
 
-![Dashboard](output/KDS_Dashboard.png)
+![Dashboard](KDS_Dashboard.png)
 
 ---
 
@@ -49,22 +49,6 @@ Analiza odpowiada na trzy pytania postawione przez zlecającego:
 3. **MRR proxy** — przy braku explicite zdefiniowanych planów, suma transakcji miesięcznych jako przybliżenie MRR. Trend wygładzony 3-miesięczną średnią kroczącą.
 
 4. **Benchmarking** — retencja porównana do benchmarku SaaS ([Userpilot](https://userpilot.com/blog/month-1-retention-rate-benchmarks), 83 firmy B2B SaaS: średnia retencja 1M = 46,9%). Uwaga: benchmark mierzy retencję użytkowników produktu, nie retencję transakcyjną — porównanie orientacyjne.
-
----
-
-## Struktura projektu
-
-```
-kds-retention-analysis/
-├── README.md
-├── kds_analysis.py          # Pełna analiza + generowanie dashboardu (954 loc)
-├── data/
-│   └── KDS_Transactions.xlsx  # Dataset źródłowy (4 227 transakcji)
-├── output/
-│   └── KDS_Dashboard.png      # Wygenerowany dashboard (8 wykresów)
-└── docs/
-    └── KDS_Portfolio.pdf       # Case study z wnioskami i rekomendacjami
-```
 
 ---
 
