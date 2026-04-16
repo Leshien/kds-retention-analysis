@@ -52,22 +52,6 @@ Analiza odpowiada na trzy pytania postawione przez zlecającego:
 
 ---
 
-## Struktura projektu
-
-```
-kds-retention-analysis/
-├── README.md
-├── kds_analysis.py          # Pełna analiza + generowanie dashboardu (954 loc)
-├── data/
-│   └── KDS_Transactions.xlsx  # Dataset źródłowy (4 227 transakcji)
-├── output/
-│   └── KDS_Dashboard.png      # Wygenerowany dashboard (8 wykresów)
-└── docs/
-    └── KDS_Portfolio.pdf       # Case study z wnioskami i rekomendacjami
-```
-
----
-
 ## Stack technologiczny
 
 | Narzędzie | Zastosowanie |
